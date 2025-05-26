@@ -1,0 +1,27 @@
+{
+  "name": "USDT Token List",
+  "timestamp": "2025-05-26T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x5B8f607ad0311743307186d4f5cd02dfD3ab9649",
+      "name": "USDT Copie",
+      "symbol": "USDTc",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    }
+  ]
+}
