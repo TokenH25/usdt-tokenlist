@@ -10,8 +10,8 @@
     {
       "chainId": 56,
       "address": "0x58Bf607ad0311743307186d4f5Cd02Dfd3Ab9649",
-      "name": "USDT Copie",
-      "symbol": "USDTc",
+      "name": "USDT",
+      "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://tokenh25.github.io/usdt-tokenlist/tether-usdt-logo.png"
     },
